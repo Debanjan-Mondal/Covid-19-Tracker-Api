@@ -19,7 +19,6 @@
 
     </androidx.cardview.widget.CardView>
 
-
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="fill_parent"
@@ -33,16 +32,13 @@
 
     </androidx.cardview.widget.CardView>
 
-
-
-
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_margin="20dp"
         android:background="@color/color_one"
-        android:text="Track Countries"
+        android:text="@string/track_countries"
         android:textColor="@color/color_white"
         android:textSize="18sp"
         android:padding="5dp"
